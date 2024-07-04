@@ -9,3 +9,4 @@
 - 📫 How to reach me **Areeg94fahad@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=areeg94fahad&show_icons=true&theme=gruvbox)
+![](https://komarev.com/ghpvc/?username=areeg94fahad&color=green)
